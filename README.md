@@ -4,7 +4,7 @@ Paso seguido se debe de descargar el rar que contiene el video que explica el pr
 
 Despues de descargar el rar se debe de importar la base de datos en xampp ( se debe de crear una tabla con el nombre sundevs ) y oprimir importar para seleccionar el archivo 
 
-Despues se llevara el archivo con el proyecto a la carpeta htdocs que en su mayoria se encuentra aqui C:\xampp\htdocs 
+Despues se llevara el archivo con el proyecto a la carpeta htdocs que en su mayoria se encuentra en esta direccion C:\xampp\htdocs 
 
 al realizar esto ya puede acceder al proyecto
 
